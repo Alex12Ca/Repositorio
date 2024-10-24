@@ -1,0 +1,6 @@
+print ("n1")
+num1 = (imput())
+print ("n2")
+num2 = (imput())
+print("la suma es :")
+print (num1 + num2)
